@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://aegisanaturale.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "aegisa Site"
 theme = "reveal-hugo"
 
 [markup.goldmark.renderer]
